@@ -3,7 +3,7 @@ name = "SigmaOS-distributed-tracing"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "distributed-tracing component"
+description = "Distributed Tracing"
 upstream = []
 
 [contract]
